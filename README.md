@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+![trophy](https://github-profile-trophy.vercel.app/?username=anna328p)
 
----
-
-### Sample text below
-
-**anna328p/anna328p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **anna328p/anna328p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
