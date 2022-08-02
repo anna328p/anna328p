@@ -1,6 +1,6 @@
-### Hi there 👋
+### hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=anna328p)
+i'm anna (they/it). reach me on discord at ap5#3091.
 
 <!-- **anna328p/anna328p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
