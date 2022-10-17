@@ -1,6 +1,6 @@
 ### hi there 👋
 
-i'm anna (they/it). reach me on discord at ap5#3091.
+i'm anna (they/it). reach me on discord at `ap5#3091`.
 
 i'm a software and hardware developer. my main interests right now are functional programming and embedded dev, but i like to explore and do a little of everything. i'm most fluent in ruby and c, and i'm currently learning haskell and rust.
 
