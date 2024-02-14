@@ -1,8 +1,20 @@
 ### hi there 👋
 
-i'm anna (they/it). reach me on discord at `ap5#3091`.
+i'm anna (they/it). reach me on discord at `@ap5`.
 
-i'm a software and hardware developer. my main interests right now are functional programming and embedded dev, but i like to explore and do a little of everything. i'm most fluent in ruby and c, and i'm currently learning haskell and rust.
+i want to design and build computing systems, tools, and applications with an emphasis on correctness, reliability, user experience, and maintainability.
+
+my more specific interests and skills include:
+- declarative, purely functional programming languages, primarily Nix and Haskell
+- DevOps, declarative software deployment, reproducible builds, Nix and NixOS
+- formal verification and dependent type systems
+- embedded development and hardware design
+- competence in Ruby, C, and the Unix environment
+
+i'm currently:
+- designing an operating system and package collection based on the Nix language and package manager, inspired by NixOS
+- learning the Rust and Haskell programming languages
+- building an Android app that helps users navigate the local public transit system
 
 <!-- **anna328p/anna328p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
