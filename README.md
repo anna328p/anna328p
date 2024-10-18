@@ -1,15 +1,15 @@
 ### hi there 👋
 
-i'm anna (they/it). reach me on discord at `@ap5`.
+i'm anna (she/her). reach me on discord at `@ap5`.
 
 i want to design and build computing systems, tools, and applications with an emphasis on correctness, reliability, user experience, and maintainability.
 
 my more specific interests and skills include:
 - declarative, purely functional programming languages, primarily Nix and Haskell
 - DevOps, declarative software deployment, reproducible builds, Nix and NixOS
-- formal verification and dependent type systems
+- mathematical logic, formal verification, type theory
 - embedded development and hardware design
-- competence in Ruby, C, and the Unix environment
+- competence in Ruby, systems programming, and the Unix environment
 
 i'm currently:
 - designing an operating system and package collection based on the Nix language and package manager, inspired by NixOS
