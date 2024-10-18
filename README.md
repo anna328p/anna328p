@@ -1,6 +1,6 @@
 ### hi there 👋
 
-i'm anna (she/her). reach me on discord at `@ap5`.
+i'm anna (she/her or it/its). reach me on discord at `@ap5`.
 
 i want to design and build computing systems, tools, and applications with an emphasis on correctness, reliability, user experience, and maintainability.
 
